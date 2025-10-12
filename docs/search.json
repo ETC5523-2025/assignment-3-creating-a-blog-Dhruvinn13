@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "posts/bushfire_risk.html",
+    "href": "posts/bushfire_risk.html",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "",
+    "text": "The 2019/20 “Black Summer” wasn’t just bad luck. It was a glimpse of what warmer conditions make more likely. My guiding question is simple:\n\nHas human-driven climate change already increased the odds of extreme bushfire weather in south-eastern Australia and by how much?\n\nAnswering this helps planners, councils and emergency services choose sensible baselines for building codes, land use and preparedness."
+  },
+  {
+    "objectID": "posts/bushfire_risk.html#sec-problem",
+    "href": "posts/bushfire_risk.html#sec-problem",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "",
+    "text": "The 2019/20 “Black Summer” wasn’t just bad luck. It was a glimpse of what warmer conditions make more likely. My guiding question is simple:\n\nHas human-driven climate change already increased the odds of extreme bushfire weather in south-eastern Australia and by how much?\n\nAnswering this helps planners, councils and emergency services choose sensible baselines for building codes, land use and preparedness."
+  },
+  {
+    "objectID": "posts/bushfire_risk.html#sec-analysis",
+    "href": "posts/bushfire_risk.html#sec-analysis",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "Analysis",
+    "text": "Analysis\nWhat I draw on. I summarise published attribution work that compares (i) today’s climate with the early 1900s and (ii) a future +2 °C world. These studies use long observations, ERA5 reanalysis and large climate-model ensembles to estimate probability ratios (PR) for extreme events “how many times more likely is X now than before?” (see References 1–2).\n\nSummary table\n\n\n\nTable 1: Probability ratios (PR) for extreme conditions from recent attribution studies.\n\n\n\n\n\nMetric\nPresent vs early 1900s\n+2 °C future\n\n\n\n\nFire weather (FWI) risk\n≥ 30% higher\n≥ 4× likely\n\n\nHeat extremes likelihood\n≥ 2× likely\nHigher\n\n\n\n\n\n\nIn Table 1, extreme FWI conditions are already about 30% more likely today than in the early 1900s, and seasons like 2019/20 become around four times more likely in a +2 °C world.\n\n\nSummary figure\n\n\n\n\n\n\n\n\nFigure 1: Probability ratios for extreme FWI events."
+  },
+  {
+    "objectID": "posts/bushfire_risk.html#findings",
+    "href": "posts/bushfire_risk.html#findings",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "Findings",
+    "text": "Findings\nFigure 1 shows the step-change clearly: risk is already elevated, and it jumps again under +2 °C.\nThis links back to Section 1, treating “rare” seasons as the new planning baseline is prudent.\n\nShift in Risk\nRisk has shifted upward. Severe fire-weather seasons should be expected more often, not treated as outliers.\n\n\nAttribution\nHeat is strongly attributed; drought is trickier.\nHeat-related extremes have clear signals; drought attribution is less certain, but still points the same way.\n\n\nPractical Implications\nAssume tougher summers and plan for them; earlier warnings, defensible space, and infrastructure that copes under stress."
+  },
+  {
+    "objectID": "posts/bushfire_risk.html#conclusion",
+    "href": "posts/bushfire_risk.html#conclusion",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "Conclusion",
+    "text": "Conclusion\nAnswer.\nHuman-driven warming has already increased the likelihood of extreme bushfire weather in south-eastern Australia, and a +2 °C world implies a multiple-fold increase.\nTakeaway.\nPlan as if severe seasons are part of the background climate: update land-use rules, tighten building standards, harden critical infrastructure, and resource health and emergency services accordingly."
+  },
+  {
+    "objectID": "posts/bushfire_risk.html#references",
+    "href": "posts/bushfire_risk.html#references",
+    "title": "How climate change increased bushfire risk in south-eastern Australia",
+    "section": "References",
+    "text": "References\nvan Oldenborgh, G. J., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders, K. R., van Weele, M., Haustein, K., Li, S., Wallom, D., Sparrow, S., Arrighi, J., Singh, R. K., van Aalst, M. K., Philip, S. Y., Vautard, R., & Otto, F. E. L. (2021). Attribution of the Australian bushfire risk to anthropogenic climate change. Natural Hazards and Earth System Sciences, 21, 941–960. https://doi.org/10.5194/nhess-21-941-2021\nBureau of Meteorology. (2020). Annual Climate Statement 2019: Australia’s warmest and driest year on record.\nhttps://media.bom.gov.au/releases/739/annual-climate-statement-2019-periods-of-extreme-heat-in-2019-bookend-australias-warmest-and-driest-year-on-record/"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog. Posts appear below with the newest first.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\nDhruvin Modh\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a Master of Business Analytics student at Monash. I’m interested in turning analysis into decisions—bridging the gap between technical work and clear, practical communication.\nI mostly work in R and Quarto, with a focus on reproducible workflows and tidy, readable visuals. The goal isn’t just accuracy; it’s making results understandable for non-technical audiences through clean narratives and concrete takeaways.\nThis site hosts short, readable posts from the unit. My first post reframes my Assignment 2 analysis as a blog story, with a clear structure, a figure and table cross-referenced in text, and proper sources.\nInterests include climate risk, business strategy and decision intelligence—areas where data informs smarter choices. I like breaking down complex ideas, finding the story in the numbers, and presenting it so it sticks.\nOutside study, I follow emerging tech, experiment with new data-story formats, and keep refining how to explain complicated things simply."
+  },
+  {
+    "objectID": "about.html#hey-im-dhruvin-modh",
+    "href": "about.html#hey-im-dhruvin-modh",
+    "title": "About",
+    "section": "",
+    "text": "I’m a Master of Business Analytics student at Monash. I’m interested in turning analysis into decisions—bridging the gap between technical work and clear, practical communication.\nI mostly work in R and Quarto, with a focus on reproducible workflows and tidy, readable visuals. The goal isn’t just accuracy; it’s making results understandable for non-technical audiences through clean narratives and concrete takeaways.\nThis site hosts short, readable posts from the unit. My first post reframes my Assignment 2 analysis as a blog story, with a clear structure, a figure and table cross-referenced in text, and proper sources.\nInterests include climate risk, business strategy and decision intelligence—areas where data informs smarter choices. I like breaking down complex ideas, finding the story in the numbers, and presenting it so it sticks.\nOutside study, I follow emerging tech, experiment with new data-story formats, and keep refining how to explain complicated things simply."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 — Assignment 3: Blog",
+    "section": "",
+    "text": "How climate change increased bushfire risk in south-eastern Australia\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 6, 2025\n\n\nDhruvin Modh\n\n\n\n\n\nNo matching items"
+  }
+]

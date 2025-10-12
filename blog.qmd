@@ -1,0 +1,13 @@
+---
+title: "Blog"
+listing:
+  contents: posts           
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  filter-ui: true
+  fields: [date, author, categories, description]
+---
+
+Welcome to my blog. Posts appear below with the newest first.

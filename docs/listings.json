@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/bushfire_risk.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/bushfire_risk.html"
+    ]
+  }
+]

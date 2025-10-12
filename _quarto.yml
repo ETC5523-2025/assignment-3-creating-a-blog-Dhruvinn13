@@ -1,17 +1,23 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "blog-template"
+  title: "Dhruvin Modh | Communicating with Data"
   navbar:
     right:
-      - about.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: About
+        href: about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/Dhruvinn13
+        aria-label: GitHub
+  repo-url: https://github.com/ETC5523-2025/assignment-3-creating-a-blog-Dhruvinn13
+  repo-actions: [source, issue]
+resources:
+  - images/
 format:
   html:
-    theme: cosmo
     css: styles.css
-
-
-
+    page-description: "Blogging data stories from ETC5523 with clear visuals and takeaways."

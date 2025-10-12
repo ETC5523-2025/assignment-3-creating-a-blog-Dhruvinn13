@@ -1,0 +1,17 @@
+{
+  "hash": "c00cecdb564444bd7d1217b5ddf65fd3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"How climate change increased bushfire risk in south-eastern Australia\"\nauthor: \"Dhruvin Modh\"\ndate: 2025-10-07\ncategories: [analysis, climate]\nexecute: { echo: false, warning: false, message: false }\n---\n\n## Problem description {#sec-problem}\nThe 2019/20 “Black Summer” fires were exceptional in scale and harm. The practical question is:\n**has human-driven climate change increased the likelihood of extreme bushfire weather in south-eastern Australia, and by how much?** This matters for land-use planning, building standards, emergency preparedness, and health systems. I summarise published attribution work into one table and figure for decision-makers, then outline what the numbers imply for planning.\n\n## Analysis {#sec-analysis}\n\n**Data source.** I summarise results from attribution research that compares today’s climate with the early 1900s and a future **+2 °C** world using long-term observations, ERA5 reanalysis and large climate-model ensembles (probability ratios for extreme events). The key findings used here are: present-day extreme fire-weather risk is **≈30% higher** than the early 1900s, and seasons like 2019/20 are **~4×** more likely in a +2 °C world; heat extremes are **≥2×** more likely, while drought attribution is less certain. :contentReference[oaicite:4]{index=4}\n\n### Summary table\n\n::: {#tbl-attr-summary .cell tbl-cap='Stylised attribution summary: probability ratios (PR) for extreme conditions.'}\n::: {.cell-output .cell-output-stdout}\n\n```\n                   Metric Present.vs.early.1900s X.2..C.future\n1 Fire weather (FWI) risk                 ≈ 1.3×          ≈ 4×\n2           Heat extremes                   ≥ 2×        Higher\n```\n\n\n:::\n:::\n\nAs shown in @tbl-attr-summary, extreme FWI conditions are already about 30% more likely today than in the early 1900s, with seasons like 2019/20 projected to be ~4× more likely under +2 °C.\n\n### Summary figure\n\n\n::: {.cell}\n::: {.cell-output-display}\n![Probability ratios for extreme FWI events (stylised).](assignment2_files/figure-html/fig-fwi-pr-1.png){#fig-fwi-pr width=672}\n:::\n:::\n\n@fig-fwi-pr shows a clear step-change: elevated risk already, and a much larger jump at +2 °C, which links back to @sec-problem by motivating adaptation as the prudent baseline. (Methods & limits consistent with your A2: large ensembles, PR metric, conservative lower-bounds; drought attribution weaker.) \n\n\n## Findings\n\nRisk has shifted upward — treat severe seasons as part of a new baseline rather than rare anomalies. \n\nLimits: model spread and observational limits mean estimates are conservative; drought attribution is less certain than heat and FWI. \n\n## Conclusion\n\n**Answer**: Anthropogenic warming has already increased extreme bushfire-weather likelihood in south-eastern Australia, and a +2 °C world implies a multiple-fold increase. \n**Takeaway**: plan for more frequent/intense fire-weather seasons and prioritise adaptation (land-use, building codes, infrastructure hardening, early-warning capacity, health preparedness).\n",
+    "supporting": [
+      "assignment2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

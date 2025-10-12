@@ -1,13 +1,30 @@
 ---
 title: "About"
-image: profile.jpg
+page-description: "Monash Master of Business Analytics student focusing on clear, actionable data storytelling in ETC5523."
 about:
-  template: jolla
+  template: trestles
+  image: "images/profile.jpg"      
+  image-alt: "Portrait of Dhruvin Modh"
+  image-width: 220px               
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/Dhruvinn13
+      target: _blank
+      rel: noopener
+    - icon: envelope
+      text: Email
+      href: mailto:dmod0005@student.monash.edu
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+## Hey, I’m Dhruvin Modh
+
+I’m a Master of Business Analytics student at Monash. I’m interested in turning analysis into decisions—bridging the gap between technical work and clear, practical communication.
+
+I mostly work in R and Quarto, with a focus on reproducible workflows and tidy, readable visuals. The goal isn’t just accuracy; it’s making results understandable for non-technical audiences through clean narratives and concrete takeaways.
+
+This site hosts short, readable posts from the unit. My first post reframes my Assignment 2 analysis as a blog story, with a clear structure, a figure and table cross-referenced in text, and proper sources.
+
+Interests include climate risk, business strategy and decision intelligence—areas where data informs smarter choices. I like breaking down complex ideas, finding the story in the numbers, and presenting it so it sticks.
+
+Outside study, I follow emerging tech, experiment with new data-story formats, and keep refining how to explain complicated things simply.

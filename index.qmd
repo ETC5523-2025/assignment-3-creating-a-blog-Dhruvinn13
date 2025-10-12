@@ -1,5 +1,5 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "ETC5523 — Assignment 3: Blog"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,8 +7,8 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
+  # fields: [image, date, author, categories, description]
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
-
 
