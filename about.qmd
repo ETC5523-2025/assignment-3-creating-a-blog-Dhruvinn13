@@ -19,12 +19,12 @@ about:
 
 ## Hey, I’m Dhruvin Modh
 
-I’m a Master of Business Analytics student at Monash. I’m interested in turning analysis into decisions—bridging the gap between technical work and clear, practical communication.
+I’m a Master of Business Analytics student at Monash. I’m interested in turning analysis into decisions, bridging the gap between technical work and clear, practical communication.
 
 I mostly work in R and Quarto, with a focus on reproducible workflows and tidy, readable visuals. The goal isn’t just accuracy; it’s making results understandable for non-technical audiences through clean narratives and concrete takeaways.
 
 This site hosts short, readable posts from the unit. My first post reframes my Assignment 2 analysis as a blog story, with a clear structure, a figure and table cross-referenced in text, and proper sources.
 
-Interests include climate risk, business strategy and decision intelligence—areas where data informs smarter choices. I like breaking down complex ideas, finding the story in the numbers, and presenting it so it sticks.
+Interests include climate risk, business strategy and decision intelligence, areas where data informs smarter choices. I like breaking down complex ideas, finding the story in the numbers, and presenting it so it sticks.
 
 Outside study, I follow emerging tech, experiment with new data-story formats, and keep refining how to explain complicated things simply.
